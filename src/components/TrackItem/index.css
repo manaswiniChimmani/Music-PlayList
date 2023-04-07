@@ -1,0 +1,33 @@
+.li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.track-img-con {
+  display: flex;
+}
+.track-img {
+  width: 150px;
+  margin-right: 20px;
+}
+.name {
+  color: #ffffff;
+  font-size: 18px;
+}
+.genre {
+  color: #3b82f6;
+  font-size: 14px;
+}
+.del-btn {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 5px;
+}
+.c1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  color: #ffffff;
+}
